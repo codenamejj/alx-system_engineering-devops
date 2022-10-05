@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '#!/bin/bash I am creating this file using a script' > /tmp/my_first_directory
+mkdir /tmp/my_first_directory
