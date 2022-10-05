@@ -1,2 +1,4 @@
 #!/bin/bash
-echo 'I am creating this file using a script' > /tmp/my_first_directory
+echo '
+#!/bin/bash
+I am creating this file using a script' > /tmp/my_first_directory
