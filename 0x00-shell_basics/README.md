@@ -1,2 +1,2 @@
 #!/bin/bash
-Creating an executable file that works similar to (pwd) command when executed
+Creating an executable files that works similar to specific commands when executed
