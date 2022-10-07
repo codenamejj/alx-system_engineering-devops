@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod vincent staff:GROUP *
+chown vincent staff:GROUP *
