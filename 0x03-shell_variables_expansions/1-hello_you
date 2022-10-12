@@ -1,3 +1,2 @@
 #!/bin/bash
-greet_user="Hello user"
-echo $greet_user
+echo hello $USER
