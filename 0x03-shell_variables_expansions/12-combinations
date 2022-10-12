@@ -1,2 +1,2 @@
 #!/bin/bash
-source ="a..z" | grep -v "oo" \
+source ={a..z} | grep -v "oo" \
